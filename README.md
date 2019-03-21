@@ -8,6 +8,8 @@
 
 **作者：李笑来**
 
+李笑来 厉害了 我想试试这个怎么用
+
 特别感谢**霍炬**（[@virushuo](https://github.com/virushuo)）、**洪强宁**（[@hongqn](https://github.com/hongqn)) 两位良师诤友在此书写作过程中给予我的巨大帮助！
 
 ![](images/learning-curve-spiral.png)
